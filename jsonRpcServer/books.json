@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "El sueño del DJ",
+        "author": "Hernan Cattaneo"
+    },
+    {
+        "id" : "2",
+        "name" : "Hands ON. RESTFUL Web Services with GO",
+        "author": "Naren Yellavula"
+    },
+    {
+        "id": "3",
+        "name": "Decir presente, hacer futuro",
+        "author": "Facundo Manes"
+    }
+]
